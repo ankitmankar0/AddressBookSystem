@@ -12,6 +12,8 @@ namespace AddressBookSystem
             // city, state, zip, phone number and email...
             AddressBook.Display();
             AddressBook.AddContact();
+            AddressBook.Edit();
+            AddressBook.Display();
         }
     }
 
