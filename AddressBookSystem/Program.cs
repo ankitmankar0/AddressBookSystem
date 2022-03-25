@@ -13,6 +13,7 @@ namespace AddressBookSystem
             AddressBook.Display();
             AddressBook.AddContact();
             AddressBook.Edit();
+            AddressBook.Delete();
             AddressBook.Display();
         }
     }
